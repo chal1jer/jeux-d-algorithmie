@@ -1,5 +1,5 @@
 # Jeux d'algorithmie
-S'amuser avec l'algorithmie. 
+S'amuser avec l'algorithmie.   
 Ce fichier est régulièrement alimenté. 
 
 *[algorithmique](https://fr.wiktionary.org/wiki/algorithmique) \al.ɡɔ.ʁit.mik\ féminin*
