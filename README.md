@@ -1,2 +1,2 @@
-# jeux_algorithmie
-Jeux simple d'algorithmie
+# Jeux d'algorithmie
+S'amuser avec l'algorithmie
